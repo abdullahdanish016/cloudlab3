@@ -1,0 +1,10 @@
+{
+  "name": "tycoon-motors",
+  "version": "1.0.0",
+  "description": "Cloud Computing Lab 3 - Vehicle showroom deployed on Netlify (PaaS)",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/neon": "^0.1.0"
+  }
+}
